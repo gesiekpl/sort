@@ -1,0 +1,6 @@
+SORT
+5 4 3 2 1
+REVERSE
+programowanie
+REPEAT
+assd a sdgghha a to taka lipa
